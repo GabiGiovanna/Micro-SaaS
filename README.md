@@ -36,3 +36,4 @@ npm install
 
 # 2️⃣ Rode o servidor de desenvolvimento
 npm run dev
+```
